@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi, I'm Piyush! 👋
 
 ### 🚀 Full Stack Developer | Software Engineer | Java Enthusiast 
