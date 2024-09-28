@@ -8,6 +8,17 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 
 ### 🔧 Technologies & Tools:
 
+![image](https://github.com/user-attachments/assets/fcccebb1-d793-43ae-a68e-98c72567da32)
+![image](https://github.com/user-attachments/assets/85d9dca6-fc19-468c-abaa-68420278485a)
+![image](https://github.com/user-attachments/assets/5c9e5dbe-0186-4e0f-b53d-04e48e0e3fd0)
+![image](https://github.com/user-attachments/assets/f4630dc5-8c11-4498-968b-5afc26190de1)
+![image](https://github.com/user-attachments/assets/11c0eb47-112c-454b-9201-8fb48b8f6491)
+![image](https://github.com/user-attachments/assets/6e68cbb6-660e-453f-975f-3cd4c367c28b)
+![image](https://github.com/user-attachments/assets/ad7edcdf-7927-4817-9151-744f23dd1a57)
+![image](https://github.com/user-attachments/assets/d21690a5-4f14-48a1-b311-c84ccc2b5477)
+![image](https://github.com/user-attachments/assets/d4dab7c6-ec27-4a5a-ba23-27c9657cdd74)
+
+
 - **Backend**: Java, Spring Boot, Microservices, Spring MVC, Hibernate, Spring Security
 - **Frontend**: React.js, Tailwind CSS, Thymeleaf
 - **Database**: MySQL, MongoDB
