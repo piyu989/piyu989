@@ -7,7 +7,8 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 ---
 
 ### 🔧 Technologies & Tools:
-![image](https://github.com/LelouchFR/skill-icons/blob/main/assets/java-auto.svg).
+
+![image](https://github.com/user-attachments/assets/08ee911e-add5-4323-9108-9d956e97c5d9)
 ![image](https://github.com/user-attachments/assets/19c52fd8-188b-481e-8324-43a15531f234)
 ![image](https://github.com/user-attachments/assets/cb0301d6-c888-4f50-bfb4-17834c328d26)
 ![image](https://github.com/user-attachments/assets/99ad8436-df69-491e-8e4f-f9a6e9edbfe9)
