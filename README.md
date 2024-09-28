@@ -26,10 +26,10 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 2. **[Smart Contact Manager](https://github.com/piyu989/Smart-Contact-Manager)**  
    A secure web application built using **Spring Boot** and **Thymeleaf**, allowing users to manage their contacts. It includes **OAuth2** for Google and GitHub authentication, password encryption, and direct email sending functionality.
 
-3. **[Course Website (CRUD)(https://github.com/piyu989/Course-Website)]**  
+3. **[Course Website (CRUD -Operation)](https://github.com/piyu989/Course-Website)**  
    A full-stack application built using **React.js**, **Spring Boot**, and **MySQL**, implementing CRUD operations to manage courses with user-friendly UI and backend interaction.
 
-4. **[(Student Management System)(https://github.com/piyu989/Assignment)]**  
+4. **[(Student Management System)](https://github.com/piyu989/Assignment)**  
    Developed using **Spring Boot**, **MongoDB**, and **JWT authentication**. The system supports CRUD operations for student data and is Dockerized for easy deployment with Kubernetes configuration.
 
 5. **ACRA Server**  
