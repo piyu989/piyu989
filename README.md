@@ -9,8 +9,8 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 ### 🔧 Technologies & Tools:
 ![image](https://github.com/user-attachments/assets/0c7beda8-7abb-4ba6-b36a-8e433612bee6)
 ![image](https://github.com/user-attachments/assets/19c52fd8-188b-481e-8324-43a15531f234)
-
-
+![image](https://github.com/user-attachments/assets/cb0301d6-c888-4f50-bfb4-17834c328d26)
+![image](https://github.com/user-attachments/assets/302a1592-35bd-45df-9352-a2b5b59da69b)
 
 
 - **Backend**: Java, Spring Boot, Microservices, Spring MVC, Hibernate, Spring Security
