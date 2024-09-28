@@ -8,6 +8,8 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 
 ### 🔧 Technologies & Tools:
 ![image](https://github.com/user-attachments/assets/0c7beda8-7abb-4ba6-b36a-8e433612bee6)
+![image](https://github.com/user-attachments/assets/19c52fd8-188b-481e-8324-43a15531f234)
+
 
 
 
