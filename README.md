@@ -6,9 +6,13 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ### 🔧 Technologies & Tools:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,mysql,html,css,github,gradle,idea,vscode,&theme=light)](https://skillicons.dev)
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/08ee911e-add5-4323-9108-9d956e97c5d9)
 ![image](https://github.com/user-attachments/assets/19c52fd8-188b-481e-8324-43a15531f234)
