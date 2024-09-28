@@ -8,7 +8,7 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 
 
 ### 🔧 Technologies & Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,mysql,html,css,github,gradle,idea,vscode,&theme=light&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,docker,mongodb,mysql,html,css,github,gradle,idea,vscode,&theme=light&perline=3)](https://skillicons.dev)
 
 
 
