@@ -9,7 +9,7 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 
 ### 🔧 Technologies & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,scala,spring,kafka,linux,docker,jenkins,mongodb,mysql,redis,html,css,tailwind,github,maven,gradle,idea,vscode,&theme=light&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,scala,spring,kafka,linux,ubuntu,docker,jenkins,mongodb,mysql,redis,html,css,tailwind,github,maven,gradle,idea,vscode,&theme=light&perline=4)](https://skillicons.dev)
 - **Language**: Java, C++, Scala
 - **Backend**: Spring Boot, Microservices, Spring MVC, Hibernate, Spring Security
 - **Frontend**: React.js, Tailwind CSS, Thymeleaf
