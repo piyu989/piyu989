@@ -9,12 +9,12 @@ I'm a passionate software developer with a strong focus on full-stack developmen
 
 ### 🔧 Technologies & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,spring,kafka,linux,docker,mongodb,mysql,html,css,tailwind,github,maven,gradle,idea,vscode,&theme=light&perline=4)](https://skillicons.dev)
-
-- **Backend**: Java, Spring Boot, Microservices, Spring MVC, Hibernate, Spring Security
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,scala,spring,kafka,linux,docker,jenkins,mongodb,mysql,redis,html,css,tailwind,github,maven,gradle,idea,vscode,&theme=light&perline=4)](https://skillicons.dev)
+- **Language**: Java, C++, Scala
+- **Backend**: Spring Boot, Microservices, Spring MVC, Hibernate, Spring Security
 - **Frontend**: React.js, Tailwind CSS, Thymeleaf
-- **Database**: MySQL, MongoDB
-- **DevOps**: Docker
+- **Database**: MySQL, MongoDB, Redis
+- **DevOps**: Docker, Jenkins
 - **Version Control**: Git, GitHub
 - **Others**: JWT Authentication, OAuth2, RESTful APIs, Linux
 
